@@ -1,0 +1,1 @@
+// Funcao em JS é first-class  
